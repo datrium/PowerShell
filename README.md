@@ -1,2 +1,2 @@
-# PowerShell
-Community support for PowerShell scripts
+# PowerShell Repository
+These projects are community driven and are not created by Datrium Engineering nor validated by Datrium QA team. The projects and scripts are created and maintained by members of the community, some of which could be Datrium employees. You should understand each and every line of any script prior to execution. These examples should be altered and adapted to meet your individual needs and environment.
