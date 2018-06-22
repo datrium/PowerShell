@@ -15,11 +15,7 @@
     LASTEDIT: 06/22/2018
     VERSION: 1.0
     KEYWORDS: Datrium, VSS, SQL
-    BASED ON: http://mycloudrevolution.com/2016/03/21/veeam-prtg-sensor-reloaded/
-   
-    .Link
-    http://mycloudrevolution.com/
- 
+     
  #Requires PS -Version 3.0
  #Requires Datrium DVX version 4.0.1.x or greater    
  #>
